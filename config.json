@@ -1,0 +1,9 @@
+{
+	"REGIONS": "test.region",
+	"VCF": "/net/eichler/vol27/projects/ruiyang_projects/nobackups/vntr_project/phasedsv/run21kClint/playgroud/playground/test.vcf.gz",
+	"FOFN": "/net/eichler/vol27/projects/ruiyang_projects/nobackups/vntr_project/phasedsv/run21kClint/playgroud/playground/test.fofn",
+	"SAMPLE": "Clint",
+	"REF":"/net/eichler/vol2/eee_shared/assemblies/GRCh38/no_unloc/GRCh38.fasta",
+	"MINCOVERAGE": 1,
+	"METHOD": "HIFI"
+}
